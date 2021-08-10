@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a87be9de-d8fe-4087-92ed-3b572ce4a399" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pGTU9Y07rcSbTcXm6k0n2QfiuY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../test/script.js" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ZXxxxzZZZ\Desktop\Django\geekshop\mainapp\templates\mainapp" />
+      <recent name="C:\Users\ZXxxxzZZZ\Desktop\Django\geekshop\static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ZXxxxzZZZ\Desktop\Django\geekshop\ordersapp\templates\ordersapp" />
+      <recent name="C:\Users\ZXxxxzZZZ\Desktop\Django\geekshop\basketapp\templates\basketapp" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a87be9de-d8fe-4087-92ed-3b572ce4a399" name="Default Changelist" comment="" />
+      <created>1614808439620</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614808439620</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="797" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1624906259558">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="797" y="358" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1624906259558" />
+    <state x="690" y="217" key="FileChooserDialogImpl" timestamp="1623359394961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="217" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1623359394961" />
+    <state x="0" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624909211564">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="195" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1624909211564" />
+    <state x="689" y="656" key="search.everywhere.popup" timestamp="1623358043491">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="656" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1623358043491" />
+  </component>
+</project>
